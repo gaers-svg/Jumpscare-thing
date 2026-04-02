@@ -7,7 +7,7 @@ from playsound3 import playsound
 
 # URLs
 IMAGE_URL = "https://raw.githubusercontent.com/gaers-svg/Jumpscare-thing/main/GEOFFDAMILLER.png"  # use PNG
-MUSIC_URL = "https://raw.githubusercontent.com/gaers-svg/ishowthneeds/main/getyopoopycomputerouttaherebro.mp3"
+MUSIC_URL = "https://github.com/gaers-svg/Jumpscare-thing/main/jump.wav"
 DISPLAY_TIME = 3.5
 
 # Download temp file
